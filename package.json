@@ -3,10 +3,19 @@
   "version": "1.0.1",
   "description": "Base94 Encoder/Decoder",
   "main": "index.js",
-  "keywords": ["base64", "base94", "encode", "decode"],
+  "keywords": [
+    "base64",
+    "base94",
+    "encode",
+    "decode"
+  ],
   "author": "liy",
   "license": "MIT",
   "dependencies": {
     "node-addon-api": "^7.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JustAWaifuHunter/base94.git"
   }
 }
