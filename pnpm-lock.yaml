@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  node-addon-api: ^7.0.0
+
+dependencies:
+  node-addon-api: 7.0.0
+
+packages:
+
+  /node-addon-api/7.0.0:
+    resolution: {integrity: sha512-vgbBJTS4m5/KkE16t5Ly0WW9hz46swAstv0hYYwMtbG7AznRhNyfLRe8HZAiWIpcHzoO7HxhLuBQj9rJ/Ho0ZA==}
+    dev: false

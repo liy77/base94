@@ -1,0 +1,6 @@
+/build
+/cmake-build-release
+/cmake-build-debug-mingw
+/.idea
+/node_modules
+CMakeLists.txt
