@@ -1,9 +1,9 @@
 {
   "name": "base94",
   "version": "1.0.0",
-  "description": "",
+  "description": "Base94 Encoder/Decoder",
   "main": "index.js",
-  "keywords": ["base64", "base94", ""],
+  "keywords": ["base64", "base94", "encode", "decode"],
   "author": "liy",
   "license": "MIT",
   "dependencies": {
