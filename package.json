@@ -1,6 +1,6 @@
 {
   "name": "base94",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Base94 Encoder/Decoder",
   "main": "index.js",
   "keywords": [
